@@ -2,6 +2,8 @@
 
 vuLnDAP is a deliberately vulnerable web application to demonstrate exploiting business logic flaws in a site based on LDAP.
 
+Using my version for gosec guardrails testing
+
 For more information see the [project homepage](https://digi.ninja/projects/vulndap.php).
 
 If you get stuck and need help, I've written a [walkthrough](https://digi.ninja/blog/vulndap_walkthrough.php).
